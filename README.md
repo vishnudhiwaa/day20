@@ -1,2 +1,2 @@
 Netlify Link:
-https://github.com/vishnudhiwaa/day20_task
+https://effortless-basbousa-f5c902.netlify.app/
